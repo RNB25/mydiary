@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require cviebrock/eloquent-sluggable untuk buat slug otomatis
 
 model user.php
@@ -18,3 +19,7 @@ class User extends Authenticatable
 
     // ...
 }
+=======
+# mydiary
+aplikasi curhat online yang didukung oleh ahli psikologis
+>>>>>>> 3b0e3be6c9ef63b362d399f603b5625c7e7b9e33
